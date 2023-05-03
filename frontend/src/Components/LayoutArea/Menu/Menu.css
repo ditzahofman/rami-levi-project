@@ -1,0 +1,20 @@
+.Menu {
+  display: inline;
+	text-align: left ;
+   
+    
+}
+.Menu>a{
+    color: rgb(15, 85, 41);
+    font-size: x-large;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1%;
+}
+/* .Menu>select{
+   position: relative;
+   right: 20%;
+}
+.Menu>a>img{
+  width: 5%;
+} */

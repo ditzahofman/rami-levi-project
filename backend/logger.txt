@@ -1,0 +1,434 @@
+23.4.2023, 13:17:46 	 ER_NO_SUCH_TABLE: Table 'am-pm.p' doesn't exist
+----------------------------
+23.4.2023, 13:19:35 	 ER_NO_SUCH_TABLE: Table 'am-pm.p' doesn't exist
+----------------------------
+23.4.2023, 13:22:54 	 ER_BAD_FIELD_ERROR: Unknown column 'c.categoryName' in 'field list'
+----------------------------
+29.4.2023, 23:11:39 	 ER_BAD_FIELD_ERROR: Unknown column 'DEFUALT' in 'field list'
+----------------------------
+29.4.2023, 23:12:23 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+30.4.2023, 1:57:40 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 1:58:01 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 1:58:08 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:00:27 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:00:38 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:36:10 	 Route /api/products/NaN not exist
+----------------------------
+30.4.2023, 2:36:56 	 Route /api/products-by-categories not exist
+----------------------------
+30.4.2023, 2:37:04 	 Route /api/products-by-categories/ not exist
+----------------------------
+30.4.2023, 2:37:08 	 Route /api/products/NaN not exist
+----------------------------
+30.4.2023, 2:37:34 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:40:29 	 Route /api/products-by-categories/ not exist
+----------------------------
+30.4.2023, 2:40:32 	 Route /api/products/NaN not exist
+----------------------------
+30.4.2023, 2:42:17 	 Route /api/products-by-categories/ not exist
+----------------------------
+30.4.2023, 2:43:33 	 Route /api/products-by-categories/ not exist
+----------------------------
+30.4.2023, 2:43:35 	 Route /api/products-by-categories/ not exist
+----------------------------
+30.4.2023, 2:43:38 	 Route /api/products-by-categories/ not exist
+----------------------------
+30.4.2023, 2:43:38 	 Route /api/products-by-categories/ not exist
+----------------------------
+30.4.2023, 2:44:38 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:46:05 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:47:23 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:48:30 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:52:35 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:55:12 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:56:35 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+30.4.2023, 2:56:40 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+1.5.2023, 20:23:28 	 connect ECONNREFUSED ::1:3306
+----------------------------
+1.5.2023, 20:23:28 	 connect ECONNREFUSED ::1:3306
+----------------------------
+1.5.2023, 20:53:04 	 "name" is required
+----------------------------
+1.5.2023, 20:53:56 	 "name" is required
+----------------------------
+1.5.2023, 20:53:58 	 "name" is required
+----------------------------
+1.5.2023, 20:54:06 	 "name" is required
+----------------------------
+1.5.2023, 20:54:31 	 "name" is required
+----------------------------
+1.5.2023, 20:54:58 	 "name" is required
+----------------------------
+1.5.2023, 20:56:18 	 "creationTime" is required
+----------------------------
+1.5.2023, 20:56:44 	 "categoryId" is not allowed
+----------------------------
+1.5.2023, 20:57:28 	 "categoryId" is not allowed
+----------------------------
+1.5.2023, 20:58:35 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 20:59:24 	 "imageName" is not allowed to be empty
+----------------------------
+1.5.2023, 21:01:00 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:01:01 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:01:03 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:01:48 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:01:50 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:01:51 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:03:27 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:04:02 	 "image" must be of type object
+----------------------------
+1.5.2023, 21:04:12 	 Unexpected token } in JSON at position 149
+----------------------------
+1.5.2023, 21:05:07 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:07:36 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:11:06 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:12:16 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:12:54 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:13:19 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:13:42 	 "imageName" is not allowed to be empty
+----------------------------
+1.5.2023, 21:13:52 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:15:33 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:15:36 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:16:31 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:18:26 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:18:29 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:18:34 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:18:36 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:20:27 	 Unexpected token } in JSON at position 149
+----------------------------
+1.5.2023, 21:20:32 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:20:51 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:20:54 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:21:12 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:21:14 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:22:34 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:22:38 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:24:31 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:29:11 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:30:07 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:30:09 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:33:17 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:33:18 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:35:53 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 21:37:41 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:40:10 	 ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+----------------------------
+1.5.2023, 21:40:30 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:41:45 	 "image" must be of type object
+----------------------------
+1.5.2023, 21:42:25 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:42:56 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:43:02 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:43:56 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:44:27 	 ER_BAD_FIELD_ERROR: Unknown column 'image' in 'field list'
+----------------------------
+1.5.2023, 21:44:54 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:47:07 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:47:59 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:48:11 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:48:13 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:51:04 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 9
+----------------------------
+1.5.2023, 21:51:44 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:51:58 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:52:03 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:52:55 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:52:58 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 21:58:59 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:00:12 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:06:22 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:06:26 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:06:27 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:07:38 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:09:03 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:15:29 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:16:52 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 22:17:24 	 Unexpected string in JSON at position 146
+----------------------------
+1.5.2023, 22:17:30 	 "imageName" is not allowed to be empty
+----------------------------
+1.5.2023, 22:17:44 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 22:18:05 	 "image" must be of type object
+----------------------------
+1.5.2023, 22:18:08 	 "image" must be of type object
+----------------------------
+1.5.2023, 22:18:16 	 "image" must be of type object
+----------------------------
+1.5.2023, 22:18:22 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 22:18:24 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 22:21:09 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 22:23:02 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 22:23:03 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 22:23:19 	 "image" must be of type object
+----------------------------
+1.5.2023, 22:23:20 	 "image" must be of type object
+----------------------------
+1.5.2023, 22:23:31 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 22:23:39 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 22:29:37 	 Unexpected token } in JSON at position 149
+----------------------------
+1.5.2023, 22:29:43 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+1.5.2023, 22:30:23 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:31:15 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:31:16 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:34:20 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 22:36:49 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 23:30:11 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 23:31:18 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 23:31:20 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 23:33:42 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 23:34:50 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 23:34:51 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 23:37:04 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 23:37:47 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 9
+----------------------------
+1.5.2023, 23:37:56 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`rami-levi`.`products`, CONSTRAINT `products_ibfk_1` FOREIGN KEY (`categoryId`) REFERENCES `category` (`categoryId`))
+----------------------------
+1.5.2023, 23:41:03 	 "creationTime" must be in iso format
+----------------------------
+1.5.2023, 23:41:25 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+1.5.2023, 23:42:24 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+2.5.2023, 18:16:25 	 Route /api/products/images/ not exist
+----------------------------
+2.5.2023, 18:16:30 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 18:16:40 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\undefined'
+----------------------------
+2.5.2023, 18:23:40 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 18:23:46 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 18:28:31 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 18:34:00 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 18:36:13 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 18:36:22 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 18:39:50 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 18:43:12 	 Route /api//products/images9f6d8e6b-1dd5-47ff-a not exist
+----------------------------
+2.5.2023, 18:43:21 	 Route /api//products/images9f6d8e6b-1dd5-47ff-a not exist
+----------------------------
+2.5.2023, 18:43:26 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 18:43:52 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 18:53:49 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\9f6d8e6b-1dd5-47ff-a'
+----------------------------
+2.5.2023, 19:07:25 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:07:41 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:08:20 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:08:59 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:12:15 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:14:48 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:15:37 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:15:43 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:17:22 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:21:16 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:22:56 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 19:36:32 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 21:09:07 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 21:09:07 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\undefined'
+----------------------------
+2.5.2023, 21:48:56 	 Route /api//products/images/ not exist
+----------------------------
+2.5.2023, 21:48:56 	 ENOENT: no such file or directory, stat 'D:\fullstuck\node.js-react-projects\rami-levi-project\backend\src\1-assets\images\undefined'
+----------------------------
+2.5.2023, 23:07:19 	 Route /api/products/categories/images/ not exist
+----------------------------
+2.5.2023, 23:07:33 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.5.2023, 23:07:35 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.5.2023, 23:08:36 	 Route /api/products/categories/images/ not exist
+----------------------------
+2.5.2023, 23:08:43 	 Route /api/products/categories/images/ not exist
+----------------------------
+2.5.2023, 23:09:10 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.5.2023, 23:09:13 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.5.2023, 23:09:15 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.5.2023, 23:09:18 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.5.2023, 23:11:18 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.5.2023, 23:11:34 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+2.5.2023, 23:14:45 	 Route /api/products/categories/images/ not exist
+----------------------------
+2.5.2023, 23:15:50 	 Route /api/products/categories/images/ not exist
+----------------------------
+3.5.2023, 0:22:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:04 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:40 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+3.5.2023, 0:29:37 	 Route /api/products-by-categories/ not exist
+----------------------------
+3.5.2023, 0:29:40 	 Route /api/products-by-categories/ not exist
+----------------------------
+3.5.2023, 0:29:43 	 Route /api/products-by-categories/ not exist
+----------------------------
+3.5.2023, 11:35:58 	 connect ECONNREFUSED ::1:3306
+----------------------------
+3.5.2023, 11:35:58 	 connect ECONNREFUSED ::1:3306
+----------------------------
+3.5.2023, 14:14:21 	 "name" is not allowed to be empty
+----------------------------
